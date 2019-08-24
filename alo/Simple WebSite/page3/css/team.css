@@ -1,0 +1,213 @@
+body
+{
+	margin:0;
+	padding: 0;
+}
+
+header
+{
+	background-color: #666666;
+height:50px;
+	color: #FBFEFE;
+
+padding-bottom: 2%;
+}
+.left
+{
+	float:left;
+}
+
+.right
+{
+	float:right;
+
+}
+
+.clear
+{
+	clear:both;
+}
+
+ p
+{
+	font-size: 18px;
+line-height: 150%;
+}
+
+
+#logo
+{
+	
+margin-left: 5%;
+padding-top: 1%;
+}
+h1
+{
+	font-family: 'Shrikhand', cursive;
+
+margin: 0;
+padding: 0;
+color:#63C959;
+}
+nav
+{
+
+padding-top:2%;
+width:40%;
+}
+
+
+
+nav a
+{
+
+	text-decoration: none;
+	font-family: arial;
+	text-transform: uppercase;
+	padding-left:4%;
+
+
+color:#FBFEFE;
+}
+
+
+
+
+nav a:hover
+{
+
+	color:#63C959;
+
+}
+
+
+
+#cover
+{
+background-image: url("../images/tec.jpg");
+
+ background-size: 100%;
+
+background-repeat: no-repeat;
+
+
+
+}
+
+
+#main
+{
+	margin-left: 5%;
+	padding-top: 10%;
+padding-bottom: 9%;
+}
+#un
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+	text-decoration-color: #61C357;
+	text-transform: uppercase;
+	
+}
+
+#gr
+{
+	color: #61C357;
+}
+
+h3
+{
+	color:white;
+	font-size: 150%;
+}
+
+#web
+{
+	margin-top: 2%;
+	width:70%;
+	margin-left: 13%;
+}
+
+h2
+{
+	text-align: center;
+	font-style: italic;
+	color:#63C959;;
+}
+
+p
+{
+	line-height: 150%;
+	font-size: 20px;
+}
+
+hr
+{
+	height:2px;
+	border:none;
+	 color:#63C959;
+	 background-color: #63C959;
+}
+
+
+
+footer
+
+{
+	background-color: #444444;
+	margin:0;
+	margin-top: 1.5%;
+
+}
+
+.footer1
+{
+
+	background-color: #444444;
+	width:18%;
+	
+display: inline-block;
+margin-top:1%;
+margin-left: 5%;
+padding:2% 0;
+}
+
+.footer1 h3
+{
+	font-size: 26px;
+	color:#FBFEFE;
+	margin: 0;
+	padding: 0;
+}
+.footer1 h4
+{
+	font-size: 18px;
+	font-weight: lighter;
+	color:#FBFEFE;
+	margin: 0;
+	padding: 0;
+}
+.footer1 i
+{
+		
+	color: #63C959;
+
+	font-size: 22px;
+}
+#last
+{
+text-align: center;
+background-color: #63C959;
+color: white;
+padding: 1.2% 0;
+}
+
+#last h5
+{
+	display: inline;
+	font-weight: lighter;
+}
+#last i
+{
+	display: inline;
+}

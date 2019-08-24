@@ -1,0 +1,118 @@
+.clear
+{
+	clear:both;
+}
+
+.right
+{
+	float:right;
+}
+
+
+.left
+{
+	float:left;
+}
+
+
+#service1
+{
+	text-align: center;
+
+
+}
+ h2
+{
+
+
+	color: #ffffe0;
+	background-color: #F8983E;
+	padding: 1%;
+	font-weight: 900;
+	font-size: 30px;
+}
+#services
+{
+	
+	padding:1% 0;
+	height: 250px;
+	background-color:#545454;
+}
+.service
+{
+	width:32%;
+height:100%;
+	background-color: #F8F9FA;
+margin-left: 1%;
+
+}
+
+
+
+
+.service h3,.service p,.service h4
+{
+margin-left:9%;	
+padding-left: 4%;
+line-height: 150%;
+}
+.service a,h4
+{
+text-decoration: none;
+color:#11CBD7;
+
+}
+
+
+#web,#seo,#hybrid
+{
+	width:100%;
+
+padding-top: 5%;
+
+background-color: #F7F9FD;
+height:350px;
+	
+}
+
+#web
+{
+	padding-top: 0;
+	margin-top:3%;
+}
+
+.web
+{
+}
+
+.content1
+{
+	width:45%;
+    margin-top: 1.96%;
+    padding-bottom: 2.1%;
+margin-right: 5%;
+background-color: lightblue;
+
+
+}
+.content1 p
+{
+		font-size:  24px;
+		line-height: 160%;
+		    margin-top: 0;
+		    margin-left: 1.7%;
+
+}
+.image
+{
+	width:40%
+
+
+	
+}
+.image img
+{
+	width:100%;margin-top:5%;
+	height:280px;
+}
+
